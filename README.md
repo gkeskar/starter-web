@@ -1,6 +1,9 @@
 # Starter Web Repo
 
-Adding a line for frebasing example
+Adding a line for frebasing example. 
+Adding one more line for rebasing example.
+MOre changes from my feature branch too
+
 This repository is for showing how Git and GitHub work
 
 ## Purpose
